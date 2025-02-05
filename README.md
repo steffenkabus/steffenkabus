@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Steffen
-- 💼 I work at Advellence as an Architect and Manager for Microsoft 365
+- 💼 I work at TwinCap First AG as an Architect and Manager for Azure / Microsoft 365
 - 👀 I’m interested in Microsoft 365, Azure, C#, JS and more
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/steffenkabus/)
 
